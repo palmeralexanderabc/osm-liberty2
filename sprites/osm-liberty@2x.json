@@ -1050,9 +1050,9 @@
     "y": 338
   },
   "pedestrian_polygon": {
-    "height": 128,
+    "height": 126,
     "pixelRatio": 2,
-    "width": 128,
+    "width": 126,
     "x": 0,
     "y": 0
   },
